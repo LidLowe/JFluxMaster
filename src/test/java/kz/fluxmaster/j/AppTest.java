@@ -1,4 +1,4 @@
-package org.example;
+package kz.fluxmaster.j;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
